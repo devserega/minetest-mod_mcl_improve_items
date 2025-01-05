@@ -42,7 +42,7 @@ minetest.override_item("mcl_furnaces:furnace", {
 	allow_metadata_inventory_put = protection_check_put_take,
 })
 
-minetest.override_item("mcl_barrels:barrel_closed", {
+minetest.override_item("mcl_barrels:barrel_open", {
 	-- Разрешаем взаимодействие с инвентарём сундука
 	allow_metadata_inventory_take = protection_check_put_take,
 	allow_metadata_inventory_put = protection_check_put_take,
