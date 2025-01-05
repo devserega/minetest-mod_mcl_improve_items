@@ -1,0 +1,2 @@
+# textdomain: mcl_assitional_chests
+Locked Chest=
